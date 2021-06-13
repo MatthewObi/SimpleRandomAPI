@@ -139,4 +139,4 @@ My string: znTaxW
 > Disclaimer: I have no idea if it is a good idea to use this to generate sensitive strings, so I hold no liability if you use this and screw up.
 
 ## End
-Not sure what to put here, but thanks for taking the time to check this out. 
+Not sure what to put here, but thanks for taking the time to check this out. Let me know if you decide to use this in a project of yours. I'd love to hear about it. Constructive criticism is always appriciated. This is the first time I've released an API.
