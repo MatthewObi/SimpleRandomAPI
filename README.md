@@ -149,7 +149,7 @@ The API also has a few functions for shuffling containers.
 
 ```cpp
 template<typename Iter_t>
-void Random::Shuffle(Iter_t begin, Iter_t end)
+void Random::Shuffle(Iter_t begin, Iter_t end);
 template<typename Container_t>
 void Random::Shuffle(Container_t& container);
 template<typename Container_t>
